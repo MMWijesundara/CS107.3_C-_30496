@@ -1,0 +1,14 @@
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Tutorial 1.exe
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Tutorial 1.deps.json
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Tutorial 1.runtimeconfig.json
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Tutorial 1.dll
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Tutorial 1.pdb
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Tutorial 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Tutorial 1.AssemblyInfoInputs.cache
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Tutorial 1.AssemblyInfo.cs
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Tutorial 1.csproj.CoreCompileInputs.cache
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Tutorial 1.dll
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Tutorial 1.dll
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Tutorial 1.pdb
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Tutorial 1.genruntimeconfig.cache
+C:\Users\methm\Desktop\CsProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Tutorial 1.dll
